@@ -1,5 +1,4 @@
 ---
-
 ```markdown
 # Legendre's Conjecture Checker
 
