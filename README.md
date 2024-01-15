@@ -6,31 +6,28 @@ This Python program, named "legendre_conjecture_checker.py," is designed to chec
 
 ## Usage
 
-1. **Run the Program:**
+### 1. **Run the Program:**
    
    ```bash
    python legendre_conjecture_checker.py
+   ```
+### 2. **Enter a Positive Integer:**
+- When prompted, enter a positive integer n.
 
-    Enter a Positive Integer:
+### 3. **View the Result:**
+- The program will output whether Legendre's Conjecture holds true for the given value of n.
 
-    When prompted, enter a positive integer n.
+## Example
 
-    View the Result:
+   ```bash
+   python legendre_conjecture_checker.py
+   ```
 
-    The program will output whether Legendre's Conjecture holds true for the given value of n.
-
-Example
-
-bash
-
-python legendre_conjecture_checker.py
-
-plaintext
-
-Enter a positive integer (n): 5
-Legendre's Conjecture holds true for n = 5.
-
-Note
+   ```plaintext
+   Enter a positive integer (n): 5
+   Legendre's Conjecture holds true for n = 5.
+   ```
+## Note
 
 This program is a simple demonstration and may not be optimized for extremely large values of n. It serves as a basic tool to explore Legendre's Conjecture for smaller positive integers.
 
@@ -38,3 +35,4 @@ This program is a simple demonstration and may not be optimized for extremely la
 
 [Simon Paul]
 
+Feel free to contribute, report issues, explore the code, and customize this program based on your specific project details.
