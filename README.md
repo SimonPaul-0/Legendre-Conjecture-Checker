@@ -1,5 +1,4 @@
 ---
-```markdown
 # Legendre's Conjecture Checker
 
 ## Overview
@@ -13,7 +12,6 @@ This Python program, named "legendre_conjecture_checker.py," is designed to chec
    ```bash
    python legendre_conjecture_checker.py
    ```
-
 2. **Enter a Positive Integer:**
    
    When prompted, enter a positive integer n.
