@@ -2,14 +2,14 @@
 
 ## Overview
 
-This Python program, named "legendre_conjecture_checker.py," is designed to check Legendre's Conjecture for a given positive integer n. Legendre's Conjecture posits that there is always a prime number between n^2 and (n+1)^2 for any positive integer n.
+This Python program, named "file.py," is designed to check Legendre's Conjecture for a given positive integer n. Legendre's Conjecture posits that there is always a prime number between n^2 and (n+1)^2 for any positive integer n.
 
 ## Usage
 
 ### 1. **Run the Program:**
    
    ```bash
-   python legendre_conjecture_checker.py
+   python file.py
    ```
 ### 2. **Enter a Positive Integer:**
 - When prompted, enter a positive integer n.
@@ -20,7 +20,7 @@ This Python program, named "legendre_conjecture_checker.py," is designed to chec
 ## Example
 
    ```bash
-   python legendre_conjecture_checker.py
+   python file.py
    ```
 
    ```plaintext
